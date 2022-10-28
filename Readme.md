@@ -10,4 +10,4 @@ $ npm install
 $ node deploy.js
 ```
 
-## Create .env file and store parameters.
+### Create .env file and store parameters.
